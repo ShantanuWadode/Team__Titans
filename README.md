@@ -6,6 +6,8 @@ Features of our site
 
 Checking Table Availibility
 
+Food Wastage Prevention
+
 Advance Table Booking
 
 Suggest Food 
