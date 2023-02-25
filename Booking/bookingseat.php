@@ -66,13 +66,13 @@
 											
 											<select name="theatre" id="date" class="form-control">
 												<option value="" disabled selected>Slots</option>
-												<option value="9-10">9am to 10am</option>               
-							<option value="11-12">10am to 11am</option>
-							<option value="12-1">11am to 12pm</option>
-							<option value="1-2">12pm to 1pm</option>
-							<option value="3-4">1pm to 2pm</option>
-							<option value="4-5">2pm to 3pm</option>
-							<option value="5-6">3pm to 4pm</option>
+												<option value="9-10">9-10 am</option>               
+							<option value="11-12">10-11 am</option>
+							<option value="12-1">11-12 pm</option>
+							<option value="1-2">12-1 pm</option>
+							<option value="3-4">1-2 pm</option>
+							<option value="4-5">2-3 pm</option>
+							<option value="5-6">3-4 pm</option>
 	
 											</select>
 											<select name="type" id="month" class="form-control">
